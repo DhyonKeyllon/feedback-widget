@@ -4,7 +4,7 @@
 ## Sobre o projeto
 
 <p align="center">
-    <img src="public/screenshot-podcastr.PNG" alt="Screenshot Podcastr">
+    <img src="/screenshot-feedbackwidget.png" alt="Screenshot Podcastr">
 </p>
 
 Você pode enviar feedbacks da aplicação por um widget. O feedback é enviado por e-mail com captura de tela opcional.
